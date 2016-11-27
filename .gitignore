@@ -1,6 +1,5 @@
 ## Jetbrains
 .idea/
-*.iml
 
 ## Java
 *.class
