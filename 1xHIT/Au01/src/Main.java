@@ -1,14 +1,6 @@
 /**
- * Der erste Dezember ist dieses Jahr ein Donnerstag!
- * Berechne für jeden Wochentag welcher davon Weihnachten ist?
- *
- * Montag       -> Mittwoch
- * Dienstag     -> Donnerstag
- * Mittwoch     -> Freitag
- * Donnerstag   -> Samstag
- * Freitag      -> Sonntag
- * Samstag      -> Montag
- * Sonntag      -> Dienstag
+ * @author Markus Reichl
+ * @version 27.11.2016
  */
 
 public class Main {
