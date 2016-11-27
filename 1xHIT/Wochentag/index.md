@@ -1,4 +1,4 @@
-## Au01
+## Wochentag
 Der erste Dezember ist dieses Jahr ein Donnerstag.
 Berechne für jeden Wochentag welcher davon Weihnachtabend ist.
 
