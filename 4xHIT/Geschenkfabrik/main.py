@@ -42,7 +42,6 @@ class PresentConsumer(threading.Thread):
 # END SOLVED
 
 
-# DO NOT MODIFY
 class PresentFactory:
     def __init__(self):
         self.q = queue.Queue()
@@ -51,6 +50,7 @@ class PresentFactory:
         self.pc = None
 
     def make_presents(self):
+        # START SOLVED
         f = open("wishlist.csv", "w+")
 
         self.pp = PresentProducer(self.q, self.e)
@@ -65,6 +65,7 @@ class PresentFactory:
         self.e.clear()
 
         f.close()
+        # END SOLVED
 
 
 if __name__ == '__main__':
