@@ -1,4 +1,4 @@
-## TreeFactory
+## Baumfabrik
 Ein Programm soll Bäume in der Konsole ausgeben.
 Verwendet wird ein MVC Pattern, jedoch ist nur der Controller vordefiniert.
 
