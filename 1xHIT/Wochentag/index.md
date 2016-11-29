@@ -1,6 +1,6 @@
 ## Wochentag
-Der erste Dezember ist dieses Jahr ein Donnerstag.
-Berechne für jeden Wochentag welcher davon Weihnachtabend ist.
+Der 1. Advent ist dieses Jahr ein Donnerstag, während Weihnachtabend ein Samstag ist.
+Berechne für jeden Wochentag, auf wlechen Wochentag Weihnachtabend fällt.
 
 ```
 * Montag       -> Mittwoch
