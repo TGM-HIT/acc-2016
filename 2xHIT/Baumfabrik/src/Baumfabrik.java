@@ -1,3 +1,8 @@
+/**
+ * @author Markus Reichl
+ * @version 28.11.2016
+ */
+
 public class Baumfabrik {
     public static void main(String[] args) {
         drawTree(1);
