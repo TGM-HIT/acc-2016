@@ -18,11 +18,6 @@ def decrypt(message, key):
 
 
 if __name__ == "__main__":
-    decrypted = "You solved my puzzle!"
-
-    ec = a(decrypted, "advent")
-    print(ec)
-
-    dc = decrypt(encrypted, "advent")
+    dc = decrypt("<UmceO\]Kc\h\jpOK", "advent")
     print(dc)
 # END SOLVED
