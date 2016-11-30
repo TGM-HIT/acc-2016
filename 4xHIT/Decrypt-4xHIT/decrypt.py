@@ -1,9 +1,10 @@
 """
 Author: Markus Reichl
 Version: 30.11.2016
-"""
 
 defa(b,c="advent",d=""):fore,finenumerate(b):d+=chr((ord(f)+ord(c[e%len(c)]))%int(0b1111110))returnd\n<UmceO\]Kc\h\jpOK
+"""
+
 
 # START SOLVED
 def decrypt(message, key):
