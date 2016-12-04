@@ -25,5 +25,7 @@ Ist der Name länger als 8 Zeichen, so wird der mittlere Buchstabe verwendet um 
 >> OUTPUT: Hilarous Snake
 
 >> INPUT: Bartholomeo
->> OUTPUT: Big Oktopus Ork
+>> OUTPUT: Big Octopus Ork
 ```
+
+Auch Kreativität wird bewertet ;-)
