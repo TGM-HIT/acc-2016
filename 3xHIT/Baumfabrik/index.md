@@ -1,9 +1,8 @@
 ## Baumfabrik
-Ein Programm soll Bäume bestimmter Größe in der Konsole ausgeben.
-Verwendet wird ein MVC Pattern, jedoch ist nur der Controller vordefiniert.
+MVC muss nicht immer mit einer GUI verwendet werden. 
+Im beigelegten Programm findet sich ein Controller für welchen das Model und die View geschrieben werden müssen.
 
-Schreibe die Model und View Klassen!
-
+Das Programm selbst soll wie folgt Bäume bestimmter Größe in der Konsole ausgeben:
 ```
 /* Baum der Größe 5 */
 >>
@@ -25,3 +24,5 @@ Schreibe die Model und View Klassen!
 >>  #############
 >>
 ```
+
+Die Controller Klasse darf zu diesem Zwecke NICHT bearbeitet werden!

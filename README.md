@@ -5,7 +5,7 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 --------|-------|-------|-------|-------|-------
 01      | Flocke | Baumfabrik | Baumfabrik | Geschenkfabrik | Geschenkfabrik
 02      | Infoseite | Infoseite | Decrypt | Decrypt | Decrypt
-03      | ? | Spielzeuglade | ? | Namegen | Namegen
+03      | Geschenke | Spielzeuglade | NameGen | Namegen | Namegen
 04      | ? | ? | ? | ? | ?
 
 ### Plan
