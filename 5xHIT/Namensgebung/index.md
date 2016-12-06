@@ -3,7 +3,7 @@ Es ist oft schwer sich einen guten Namen einfallen zu lassen, doch ein kleines P
 
 Ein Name besteht aus 3 Teilen:
 - Adjektiv
-- Pronomen
+- Brücke
 - Nomen
 
 Jedem dieser Teile wird pro Buchstabe ein Wort zugewiesen:
@@ -18,7 +18,7 @@ adjectives = {
 ```
 Zu Beginn wird der Benutzer dazu aufgefordert seinen Namen einzugeben.
 Der erste Buchstabe wird verwendet um das Adjektiv zu besimmten, der letzte für das Nomen. 
-Ist der Name länger als 8 Zeichen, so wird der mittlere Buchstabe verwendet um ein Pronomen einzufügen.
+Ist der Name länger als 8 Zeichen, so wird der mittlere Buchstabe verwendet um eine Brücke einzufügen.
 ```
 # Beispiel
 >> INPUT: Hannes

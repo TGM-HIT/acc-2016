@@ -1,4 +1,4 @@
-## Flocke
+## Stern
 Der Hamster soll eine Schneeflocke in einem beliebig großen Territorium zeichnen.
 Eine Vorlage befindet sich als flocke.ter im Anhang.
 
