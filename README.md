@@ -4,10 +4,11 @@
 Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT 
 --------|-------|-------|-------|-------|-------
 01      | Flocke | Baumfabrik | Baumfabrik | Geschenkfabrik | Geschenkfabrik
-02      | Infoseite | Infoseite | Decrypt | Decrypt | Decrypt
-03      | Geschenke | Spielzeuglade | Namegen | Namegen | Namegen
-04      | ? | ? | ? | MDtoHTML | MDtoHTML
-05      | ? | ? | ? | ? | ?
+02      | Geschenke | Decrypt | Decrypt | Decrypt | Decrypt
+03      | Infoseite | Infoseite | Namegen | Namegen | Namegen
+04      | HTML5Forms | Spielzeuglade | TrainByTrain | MDtoHTML | MDtoHTML
+05      | ? | GetSet | ? | ? | ?
+06      | ? | ? | ? | ? | ?
 
 ### Plan
 * Jeden Tag werden neue Aufgaben freigeschalten
@@ -19,7 +20,7 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 x Mo 05.12 - 01     Bewerbsbeginn
 x Di 06.12 - 02
 x Mi 07.12 - 03
-. Do 08.12 - 04
+x Do 08.12 - 04
 . Fr 09.12 - 05
 . Sa 10.12 - //
 . So 11.12 - //
