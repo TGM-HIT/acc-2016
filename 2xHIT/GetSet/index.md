@@ -2,7 +2,9 @@
 Getter und Setter werden benötigt um den Zugriff auf private Variablen zu ermöglichen.
 Doch diese werden nicht nur genutzt um ``return var;`` aufzurufen, sondern können noch um einiges mehr!
 
-Schreibe eine Klasse ``User`` mit den Attributen ``username``, ``password``, ``firstname`` und ``lastname``.
+Schreibe eine Klasse ``User`` mit den privaten Attributen ``username``, ``password``, ``firstname`` und ``lastname``.
+
+Diese Werte sollen später geändert werden können.
 
 Der Benutzername muss dabei mindestens 3 Zeichen lang sein und ist der neue Wert leer oder entspricht dem alten, 
 wird eine Fehlermeldung ausgegeben.
