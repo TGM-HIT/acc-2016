@@ -10,18 +10,13 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 05      | Taschenrechner | GetSet | Fibonacci | Crawler | Crawler
 06      | ? | ? | ? | ? | ?
 
-### Plan
-* Jeden Tag werden neue Aufgaben freigeschalten
-* Aufgaben können bis zur Abgabefrist korrigiert werden.
-* Jede Aufgabe bringt Punkte nach unterschiedlichen Kriterien
-
 #### Zeitplan
 ```
 x Mo 05.12 - 01     Bewerbsbeginn
 x Di 06.12 - 02
 x Mi 07.12 - 03
 x Do 08.12 - 04
-. Fr 09.12 - 05
+x Fr 09.12 - 05
 . Sa 10.12 - //
 . So 11.12 - //
 . Mo 12.12 - 06
