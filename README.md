@@ -7,7 +7,7 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 02      | Geschenke | Decrypt | Decrypt | Decrypt | Decrypt
 03      | Infoseite | Infoseite | Namegen | Namegen | Namegen
 04      | HTML5Forms | Spielzeuglade | TrainByTrain | MDtoHTML | MDtoHTML
-05      | Taschenrechner | GetSet | Fibonacci | ? | ?
+05      | Taschenrechner | GetSet | Fibonacci | Crawler | Crawler
 06      | ? | ? | ? | ? | ?
 
 ### Plan
