@@ -1,0 +1,48 @@
+table {
+    width: 100%;
+    text-align: center;
+}
+
+body {
+    background-image: url(schnee.jpg);
+}
+
+
+tr, td {
+    border: 1px solid black;
+    font-family: arial;
+    font-size: 13pt;
+}
+
+.überschrift {
+    border: 7px solid transparent;
+    padding: 10px;
+    border-image: url(rahmenTabelle.jpg) 18 round;
+    height: 25px;
+    font-size: 20pt;
+    font-family: decorative;
+    color: darkgreen;
+}
+
+a:hover {
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.beschriftung {
+    font-size: 16pt;
+    color: darkred;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.start {
+    font-family: arial;
+    font-size: 15pt;
+    color: gray;
+}

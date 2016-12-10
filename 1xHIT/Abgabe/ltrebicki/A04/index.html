@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	.buttonsubmit  {
+		background-color: #ff9900;
+		border: none;
+		color: white;
+		padding: 5px 12px;
+		text-align: center;
+		font-size: 14px;
+		transition-property: background;
+		transition-duration: 0.2s;
+		transition-timing-function: ease;
+	}
+	.buttonsubmit:hover {
+		background-color: #ffcc00;
+	}
+	.buttonreset {
+		background-color: #cccccc;
+		border: none;
+		color: white;
+		padding: 5px 12px;
+		text-align: center;
+		font-size: 14px;
+		transition-property: background;
+		transition-duration: 0.2s;
+		transition-timing-function: ease;
+	}
+	.buttonreset:hover {
+		background-color: #99cccc;
+	}
+	body {
+		font-family: segoe ui, arial, serif;
+		background-color: #f0f0f0;
+	}
+	fieldset {
+		border: groove;
+	}
+	</style>
+	<title>Formulare</title>
+	<meta charset="utf8">
+</head>
+<body>
+	<b>Vielen Dank für Ihr Interesse!</b><br>
+	Um die Registrierung erfolgreich abzuschließen, benötigen wir nur noch einige Daten von Ihnen.<p>
+	<form>
+		<fieldset>
+		<legend>Registrierungs-Formular</legend>
+			Benutzername:<br>
+			<input type="text" required name="Benutzername"><br>
+			Passwort:<br>
+			<input type="password" required name="Passwort"><br>
+			Email:<br>
+			<input type="email" required name="E-Mail" placeholder="email@beispiel.at"><br>
+			Geburtsdatum:<br>
+			<input type="date" required name="Geburtsdatum" min="01.01.1900" placeholder="TT.MM.JJJJ"><br>
+			Lieblingszahl:<br>
+			<input type="number" required name="Lieblingszahl" min="0"><br>
+			Lieblingsfarbe:<br>
+			<input type="color" required name="Lieblingsfarbe"><br>
+			Telefonnummer (nur Österreich):<br>
+			<input type="tel" required name="Telefonnummer" value="+43"> <br>
+			Deine Website:<br>
+			<input type="url" required name="Website" placeholder="musterseite.at"><p>
+			<input type="submit" class="buttonsubmit" required value="Registrierung abschließen">
+			<input type="reset" class="buttonreset" required value="Zurücksetzen">
+		</fieldset>
+	</form>
+</body>
+</html>
