@@ -8,7 +8,11 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 03      | Infoseite | Infoseite | Namegen | Namegen | Namegen
 04      | HTML5Forms | Spielzeuglade | TrainByTrain | MDtoHTML | MDtoHTML
 05      | Taschenrechner | GetSet | Fibonacci | Crawler | Crawler
-06      | ? | ? | ? | ? | ?
+06      | Eichhörnchen | ? | Wörterbuch | Wörterbuch | Wörterbuch
+07      | ? | ? | ? | ? | ?
+08      | ? | ? | ? | ? | ?
+09      | ? | ? | ? | ? | ?
+10      | Male einen Baum | Male einen Baum | Male einen Baum | Male einen Baum
 
 #### Zeitplan
 ```
