@@ -8,8 +8,8 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 03      | Infoseite | Infoseite | Namegen | Namegen | Namegen
 04      | HTML5Forms | Spielzeuglade | TrainByTrain | MDtoHTML | MDtoHTML
 05      | Taschenrechner | GetSet | Fibonacci | Crawler | Crawler
-06      | Eichhörnchen | ? | Wörterbuch | Wörterbuch | Wörterbuch
-07      | ? | ? | ? | ? | ?
+06      | Eichhörnchen | Pseudo Klassen | Wörterbuch | Wörterbuch | Wörterbuch
+07      | Adventkalender | Adventkalender | Kotlin | Kotlin | Kotlin
 08      | ? | ? | ? | ? | ?
 09      | ? | ? | ? | ? | ?
 10      | Male einen Baum | Male einen Baum | Male einen Baum | Male einen Baum
@@ -23,7 +23,7 @@ x Do 08.12 - 04
 x Fr 09.12 - 05
 . Sa 10.12 - //
 . So 11.12 - //
-. Mo 12.12 - 06
+x Mo 12.12 - 06
 . Di 13.12 - 07
 . Mi 14.12 - 08
 . Do 15.12 - 09
