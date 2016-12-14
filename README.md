@@ -10,9 +10,11 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 05      | Taschenrechner | GetSet | Fibonacci | Crawler | Crawler
 06      | Eichhörnchen | Pseudo Klassen | Wörterbuch | Wörterbuch | Wörterbuch
 07      | Adventkalender | Adventkalender | Kotlin | Kotlin | Kotlin
-08      | ? | ? | ? | ? | ?
-09      | ? | ? | ? | ? | ?
+08      | Html5 Media | Hangman | Plagiatcheck | Plagiatcheck | Plagiatcheck
+09      | Html5 Semantics | Rennen | Rennen | Rennen | Rennen
 10      | Male einen Baum | Male einen Baum | Male einen Baum | Male einen Baum
+11      | ? | ? | ? | ? | ?
+12      | ? | ? | ? | ? | ?
 
 #### Zeitplan
 ```
@@ -24,9 +26,9 @@ x Fr 09.12 - 05
 . Sa 10.12 - //
 . So 11.12 - //
 x Mo 12.12 - 06
-. Di 13.12 - 07
-. Mi 14.12 - 08
-. Do 15.12 - 09
+x Di 13.12 - 07
+x Mi 14.12 - 08
+x Do 15.12 - 09
 . Fr 16.12 - 10
 . Sa 17.12 - //
 . so 18.12 - //
@@ -35,4 +37,4 @@ x Mo 12.12 - 06
 . Mi 21.12 - ??     Bewerbsende
 . Do 22.12 - ??
 . Fr 23.12 - ??     Weihnachtsfeier
-```
+``
