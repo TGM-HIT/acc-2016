@@ -1,0 +1,4 @@
+Das ist ein Sample Text.
+Diese File wird gebraucht fuer die Aufgabe "Plagiatcheck" fuer den Advent Coding Contest.
+Das ist ein Sample Text.
+Von David Maniak 3DHIT.

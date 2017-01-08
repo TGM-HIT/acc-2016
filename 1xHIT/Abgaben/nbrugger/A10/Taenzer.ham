@@ -1,0 +1,54 @@
+/*imperative program*/public static int x = 2;
+void main() {
+	schreib("Hallo ich bin der Tanzhamster!\nIch habe in letzter Zeit so viel getanzt dass ich mich jetzt\nnur mehr über Tanzen vortbewegen!");
+	int x= Territorium.getAnzahlSpalten(); 
+	int y= Territorium.getAnzahlReihen();
+	if(x%2==0)
+	{
+		schreib("Das feld ist eine gerade anzahl an feldern breit!\nich kann mich aber nur 2 Felder vortbewegen!");
+	}
+	for(int i = 1;i<x+3;i++)
+	{
+		for(int s = 1;s<y/2;s++)
+		{
+			tanz();
+		}
+	}
+	tanz();
+}
+void tanz()
+{
+	vor();
+	linksUm();
+	vor();
+	linksUm();
+	vor();
+	linksUm();
+	vor();
+	linksUm();
+	vor();
+	vor();
+}
+public void vor() throws HamsterNichtInitialisiertException, MauerDaException{
+	while(kornDa())
+		nimm();
+	if(vornFrei())
+		super.vor();
+	else
+		k();
+}
+public void k()
+{
+	if(x%2 == 0)
+	{
+		linksUm();
+		tanz();
+		linksUm();
+	}
+	else
+	{
+	linksUm();
+	linksUm();
+	}
+	x++;
+}

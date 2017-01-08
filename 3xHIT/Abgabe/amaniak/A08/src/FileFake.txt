@@ -1,0 +1,4 @@
+Das ist ein Beispiels Text.
+Diese File wird gebraucht fuer die Aufgabe "Plagiatcheck" fuer den Advent Coding Contest 16/17.
+Das ist ein Beispiels Text.
+Von David Maniak.

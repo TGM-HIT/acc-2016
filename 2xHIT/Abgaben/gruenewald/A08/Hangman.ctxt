@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=eingabe
+comment0.target=void\ ArrayInit(java.lang.String)
+comment0.text=\r\n\ Diese\ Methode\ erzeugt\ die\ gestrichelte\ Linie\ am\ Anfang\ des\ Spiels\ und\ pr\u00FCft\ ob\ der\ Benutzer\ das\ Spiel\ gleich\ am\ Anfang\ abbricht\r\n\ @param\ eingabe\ \ \ String\ der\ gesucht\ werden\ soll\r\n
+comment1.params=eingabe
+comment1.target=void\ buchstabenEingabe(java.lang.String)
+comment1.text=\r\n\ Diese\ Methode\ erm\u00F6glicht\ es\ dem\ Benutzer,\ einzelne\ Buchstaben\ einzugeben\r\n\ Zus\u00E4tzlich\ wird\ \u00FCberpr\u00FCft\ ob\ der\ Buchstabe\ der\ geraten\ wurde\ schon\ im\ teilweise\ aufgel\u00F6sten\ Wort\ enthalten\ ist\r\n\ @param\ eingabe\ \ \ \ \ \ \ String\ der\ gesucht\ wird\r\n
+comment2.params=eingabe
+comment2.target=void\ \u00FCberpr\u00FCfen(java.lang.String)
+comment2.text=\r\n\ Diese\ Methode\ \u00FCberpr\u00FCft\ ob\ der\ Buchstabe\ der\ vom\ Benutzer\ eingegeben\ wurde\ in\ dem\ gesuchten\ Wort\ enthalten\ ist.\r\n\ Wenn\ das\ nicht\ der\ Fall\ ist\ wird\ ein\ Fehler\ dazugez\u00E4hlt\r\n\ @param\ eingabe\ \ \ \ \ \ \ String\ der\ gesucht\ ist\r\n
+comment3.params=
+comment3.target=void\ ausgabe()
+comment3.text=\r\n\ Ausgabe\ des\ Fortschrittes\r\n
+comment4.params=eingabe
+comment4.target=boolean\ \u00FCberpr\u00FCfenGesamt(java.lang.String)
+comment4.text=\r\n\ Diese\ Methode\ \u00FCberpr\u00FCft\ ob\ das\ zu\ ratende\ Wort\ bereits\ gefunden\ wurde\r\n\ @param\ eingabe\ \ \ \ \ \ \ String\ der\ gesucht\ wird\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Main\ /\ Test\ -\ Methode\r\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=z1\ z2\ z3\ z4
+comment0.target=void\ analysieren(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Diese\ Methode\ analyisiert\ das\ gegebene\ Raster\ und\ tr\u00E4gt\ die\ Werte\ dann\ in\ das\ 2D\ Array\ ein\r\n\ @param\ z1\ \ \ \ Zeile\ 1\ des\ gegebenen\ Rasters\r\n\ @param\ z2\ \ \ \ Zeile\ 2\ des\ gegebenen\ Rasters\r\n\ @param\ z3\ \ \ \ Zeile\ 3\ des\ gegebenen\ Rasters\r\n\ @param\ z4\ \ \ \ Zeile\ 4\ des\ gegebenen\ Rasters\r\n
+comment1.params=
+comment1.target=void\ drehen90()
+comment1.text=\r\n\ Diese\ Methode\ dreht\ das\ Raster\ einmal\r\n
+comment2.params=
+comment2.target=void\ standardAusgeben()
+comment2.text=\r\n\ Diese\ Methode\ gibt\ den\ Standard\ aus\ \r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main\ -\ Methode\r\n
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=runden\ teilnehmer
+comment0.target=Rennen(int,\ int)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Rennen-Objekt\r\n
+comment1.params=
+comment1.target=int\ rechnung()
+comment1.text=\ \ \r\n\ Simple\ Rechenaufgabe\ f\u00FCr\ Rennen\r\n\ @return\ \ \ \ \ \ ergebnis\ der\ Rechnung\r\n
+comment2.params=eingegeben\ endergebnis
+comment2.target=boolean\ \u00FCberpr\u00FCfen(int,\ int)
+comment2.text=\r\n\ Methode\ zum\ \u00DCberpr\u00FCfen,\ ob\ der\ Spieler\ das\ richtige\ Ergebnis\ eingegeben\ hat\r\n\ @param\ eingegeben\ \ \ \ \ \ \ \ \ \ \ \ Wert\ der\ vom\ Spieler\ eingegeben\ wurde\r\n\ @param\ endergebnis\ \ \ \ \ \ \ \ \ \ \ Wert\ der\ Richtig\ ist\r\n\ @return\ \ \ \ \ \ boolean\ Wert,\ je\ nach\ dem\ ob\ der\ Spieler\ die\ Zahl\ richtig\ hat\ oder\ nicht\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main/Test\ -\ Methode\r\n
+numComments=4

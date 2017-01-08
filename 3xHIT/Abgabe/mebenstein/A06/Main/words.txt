@@ -1,0 +1,4 @@
+brabenetz:bester mensch
+bester mensch:brabenetz
+gott:hans
+hans:gott
