@@ -12,9 +12,9 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 07      | Adventkalender | Adventkalender | Kotlin | Kotlin | Kotlin
 08      | Html5 Media | Hangman | Plagiatcheck | Plagiatcheck | Plagiatcheck
 09      | Html5 Semantics | Rennen | Rennen | Rennen | Rennen
-10      | Male einen Baum | Male einen Baum | Male einen Baum | Male einen Baum
-11      | ? | ? | ? | ? | ?
-12      | ? | ? | ? | ? | ?
+10      | Hamstertanz | Rasterdrehung | Rasterdrehung | TicTacToe | TicTacToe
+11      | Ausweichmanöver | Quiz | Quiz | Quiz | Quiz
+12      | Male einen Baum | Male einen Baum | Male einen Baum | Male einen Baum
 
 #### Zeitplan
 ```
@@ -29,12 +29,12 @@ x Mo 12.12 - 06
 x Di 13.12 - 07
 x Mi 14.12 - 08
 x Do 15.12 - 09
-. Fr 16.12 - 10
+x Fr 16.12 - 10
 . Sa 17.12 - //
 . so 18.12 - //
-. Mo 19.12 - 11
-. Di 20.12 - 12
-. Mi 21.12 - ??     Bewerbsende
-. Do 22.12 - ??
-. Fr 23.12 - ??     Weihnachtsfeier
+x Mo 19.12 - 11
+x Di 20.12 - 12
+x Mi 21.12 - ??     Bewerbsende
+x Do 22.12 - ??
+x Fr 23.12 - ??     Weihnachtsfeier
 ``
