@@ -14,7 +14,7 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 09      | Html5 Semantics | Rennen | Rennen | Rennen | Rennen
 10      | Hamstertanz | Rasterdrehung | Rasterdrehung | TicTacToe | TicTacToe
 11      | Ausweichmanöver | Quiz | Quiz | Quiz | Quiz
-12      | Male einen Baum | Male einen Baum | Male einen Baum | Male einen Baum
+12      | Male einen Baum | Male einen Baum | Male einen Baum | Male einen Baum | Male einen Baum
 
 #### Zeitplan
 ```
