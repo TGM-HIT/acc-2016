@@ -1,8 +1,0 @@
-help	Hilfe, helfen
-back	zurück
-exit	beenden, verlassen
-kk	okay
-hello	hallo
-I	ich
-How are you?	Wie geht es dir?
-How are you	Wie geht es dir?

@@ -1,5 +1,0 @@
-
-E°dogD°Hund
-E°catD°Katze
-E°birdD°Vogel
-E°mouseD°Maus
