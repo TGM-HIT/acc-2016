@@ -101,7 +101,7 @@ Bsp.: Territorium mit 20 Körnern
   ***
  *****
 *******
-
+```
 
 ## A07 - Adventskalender
 In einem beliebigen Territorium mit 24 Feldern startet ein Hamster links oben. Auf einem der Felder befindet sich eine Mauer, welche den nächsten Tag symbolisiert. Der Hamster soll so lange Körner einsammeln bis er diese Mauer findet und dann die Anzahl der abgegangenen Felder als vergangene Tag, sowie die Anzahl der Körner ausgeben.
