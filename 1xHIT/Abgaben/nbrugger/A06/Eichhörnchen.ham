@@ -1,0 +1,150 @@
+/*imperative program*/void main() {
+	Integer[] array = visitAndEatAll();
+	schreib(array+"") ; 
+	linksUm();
+	while(vornFrei())
+	{
+		vor();
+	}
+	linksUm();
+	linksUm();
+	linksUm();
+	int height = getMaxTreeHeight(array[2]);
+	int maxWidth = (height*2)-1;
+	int value = 1;
+	int mid = (maxWidth+1)/2;
+	int lr = 2;
+	schreib("height = "+height+", MaxWidth = "+maxWidth+", mid = "+mid+", lr = 2 ,corns ="+array[2]);
+	int free;
+	if(maxWidth > array[0] || height > array[1]){
+		schreib("Das Feld ist zu klein für den Baum!");
+		return;
+	}
+	for(int y = 0; y<height;y++)
+	{
+		free = (maxWidth-value)/2;
+		for(int pos = 1;pos<maxWidth;pos++)
+		{
+			if(pos == mid)
+				gib();
+			else if(pos > mid)
+			{
+				if(pos < mid+(mid-free))
+					gib();
+			}
+			else
+			{
+				if(pos>free)
+					gib();
+			}
+			vor();
+		}
+		if(height==y+1)
+			gib();
+		if(lr%2== 0)
+		{
+			rechtsUm();
+			vor();
+			rechtsUm();
+		}
+		else
+		{
+			linksUm();
+			vor();
+			linksUm();
+		}
+		lr++;
+		value+=2;
+	}
+	
+}
+public int getMaxTreeHeight(int corns)
+{
+	int height = 0; 
+	int neededAmount = 0;
+	if(corns == 0)
+			return 0;
+	while(true)
+	{
+		neededAmount = height*height;
+		height ++;
+		if(corns == neededAmount)
+			return height;
+		if(neededAmount > corns)
+			return height-1;
+	}
+}
+Integer[] visitAndEatAll()
+{
+	int x,y;
+	x= 1;
+	y = 1;
+	int corns = 0;
+	while(vornFrei())
+	{
+		while(kornDa())
+		{
+			nimm();
+			corns++;
+		}
+		vor();
+		x++;
+	}
+	rechtsUm();
+	while(vornFrei())
+	{
+		while(kornDa())
+		{
+			nimm();
+			corns++;
+		}
+		vor();
+		y++;
+	}
+	linksUm();
+	linksUm();
+	while(vornFrei())
+	{
+		vor();
+	}
+	linksUm();
+	while(vornFrei())
+	{
+		vor();
+	}
+	linksUm();
+	linksUm();
+	int lr = 2;
+	for(int i = 0; i<y;i++)
+	{
+		for(int j = 1; j<x;j++)
+		{
+			while(kornDa())
+			{
+				nimm();
+				corns++;
+			}
+			vor();
+		}
+		if(lr%2 == 0){
+			rechtsUm();
+			if(vornFrei())
+				vor();
+			rechtsUm();
+		}
+		else{
+			linksUm();
+			if(vornFrei())
+				vor();
+			linksUm();
+		}
+		lr++;
+	}
+	return new java.lang.Integer[]{x,y,corns};
+}
+void rechtsUm()
+{
+	linksUm();
+	linksUm();
+	linksUm();
+}

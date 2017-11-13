@@ -1,0 +1,14 @@
+Q:	Was ist das für 1 Life?
+A1:	1 Nices
+A2:	2 NIces
+A3:	3 Nices
+A4:	4 Nices
+Ans:	1 Nices
+/END
+Q:	ad
+A1:	a
+A2:	s
+A3:	d
+A4:	d
+Ans:	a
+/END

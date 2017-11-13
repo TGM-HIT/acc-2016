@@ -1,0 +1,50 @@
+.eröffnung {
+    position: absolute;
+    width: 99%;
+    height: 55%;
+}
+
+#auflistung {
+    padding-top: 510px
+}
+
+li {
+    text-decoration: none;
+    display: inline-block;
+    font-family: arial;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+td {
+    width: 33%;
+    text-align: center;
+}
+
+table {
+    align-content: center;
+    font-size: 17pt;
+    font-family: arial;
+}
+
+a:hover {
+    color: #c60000;
+    text-decoration: underline;
+}
+
+
+#AusgabeMusik, #AusgabeKeks, #AusgabeBaum {
+    font-size: 13.5pt;
+    font-family: helvetica;
+}
+
+
+
+
+
+
+

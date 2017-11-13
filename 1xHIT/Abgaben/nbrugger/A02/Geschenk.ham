@@ -1,0 +1,58 @@
+/*imperative program*/void main() {
+	int side = 2;
+    while(true)
+    {
+    	while(vornFrei())
+    	{
+    		if(kornDa())
+    		{
+    			gib();
+    		}
+    		vor();
+    	}
+    	if(side%2==0)
+    	{
+    		linksUm();
+    		linksUm();
+    		linksUm();
+    		
+    		if(kornDa())
+    			gib();
+    		if(vornFrei())
+    			vor();
+    		else
+    			break;
+    		linksUm();
+    		linksUm();
+    		linksUm();
+    		
+    	}
+    	else
+    	{
+    		linksUm();
+    		
+    		if(kornDa())
+    			gib();
+    		if(vornFrei())
+    			vor();
+    		else
+    			break;
+    		linksUm();
+    	}
+    	side++;
+    }
+    linksUm();
+    linksUm();
+    while(vornFrei())
+    {
+    	vor();
+    }
+    int i= 0;
+    while(!maulLeer())
+    {
+    	gib();
+    	i ++;
+    }
+    
+    schreib("Ich habe am Ende "+ i+" körner auf den Boden gelegt!");
+}

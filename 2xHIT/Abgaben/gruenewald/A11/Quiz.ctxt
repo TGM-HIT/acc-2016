@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\r\n\ Diese\ Methode\ liest\ das\ Fragenfile\ und\ Antwortfile\ aus\ und\ initialisiert\ die\ statischen\ Arrays\ dazu\r\n
+comment1.params=richtig\ falsch
+comment1.target=void\ antwort(int,\ int)
+comment1.text=\r\n\ Diese\ Methode\ erlaubt\ dem\ Spieler\ eine\ Antwort\ einzugeben\r\n\ @param\ richtig\ \ \ \ \ \ \ Anzahl\ der\ richtigen\ Antworten\r\n\ @param\ falsch\ \ \ \ \ \ \ \ Anzahl\ der\ falschen\ Antworten\r\n
+comment2.params=
+comment2.target=void\ main()
+comment2.text=\r\n\ Main\ -\ Methode\r\n
+numComments=3
