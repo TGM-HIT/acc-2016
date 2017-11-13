@@ -28,7 +28,7 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 09      | Html5 Semantics | Rennen | Rennen | Rennen | Rennen
 10      | Hamstertanz | Rasterdrehung | Rasterdrehung | Tic Tac Toe | Tic Tac Toe
 11      | Ausweichmanöver | Quiz | Quiz | Quiz | Quiz
-12      | Weihnachtsbaum | Weihnachtsbaum | Weihnachtsbaum | Weihnachtsbaum
+12      | Weihnachtsbaum | Weihnachtsbaum | Weihnachtsbaum | Weihnachtsbaum | Weihnachtsbaum
 
 #### Zeitplan
 - [x] `Mo 05.12 - 01`   Bewerbsbeginn
