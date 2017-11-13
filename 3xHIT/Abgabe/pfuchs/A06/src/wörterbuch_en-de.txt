@@ -1,3 +1,0 @@
-No	Nein
-Hello	Hallo
-Hello no	Hello
