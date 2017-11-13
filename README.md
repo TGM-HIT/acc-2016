@@ -31,22 +31,22 @@ Aufgabe | 1xHIT | 2xHIT | 3xHIT | 4xHIT | 5xHIT
 12      | Weihnachtsbaum | Weihnachtsbaum | Weihnachtsbaum | Weihnachtsbaum
 
 #### Zeitplan
-[x] `Mo 05.12 - 01`     	Bewerbsbeginn
-[x] `Di 06.12 - 02`
-[x] `Mi 07.12 - 03`
-[x] `Do 08.12 - 04`
-[x] `Fr 09.12 - 05`
-[x] `Sa 10.12`
-[x] `So 11.12`
-[x] `Mo 12.12 - 06`
-[x] `Di 13.12 - 07`
-[x] `Mi 14.12 - 08`
-[x] `Do 15.12 - 09`
-[x] `Fr 16.12 - 10`
-[x] `Sa 17.12`
-[x] `So 18.12`
-[x] `Mo 19.12 - 11`
-[x] `Di 20.12 - 12`
-[x] `Mi 21.12 - ??`     	Bewerbsende
-[x] `Do 22.12 - ??`
-[x] `Fr 23.12 - ??` 	Weihnachtsfeier
+- [x] `Mo 05.12 - 01`   Bewerbsbeginn
+- [x] `Di 06.12 - 02`
+- [x] `Mi 07.12 - 03`
+- [x] `Do 08.12 - 04`
+- [x] `Fr 09.12 - 05`
+- [x] `Sa 10.12`
+- [x] `So 11.12`
+- [x] `Mo 12.12 - 06`
+- [x] `Di 13.12 - 07`
+- [x] `Mi 14.12 - 08`
+- [x] `Do 15.12 - 09`
+- [x] `Fr 16.12 - 10`
+- [x] `Sa 17.12`
+- [x] `So 18.12`
+- [x] `Mo 19.12 - 11`
+- [x] `Di 20.12 - 12`
+- [x] `Mi 21.12 - ??`   Bewerbsende
+- [x] `Do 22.12 - ??`
+- [x] `Fr 23.12 - ??` 	Weihnachtsfeier
